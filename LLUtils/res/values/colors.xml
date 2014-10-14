@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 红色 -->
+    <color name="red">#FF0000</color>
+    <!-- 黄色 -->
+    <color name="yellow">#FFFF00</color>
+    <!-- 绿色 -->
+    <color name="green">#00FF00</color>
+    <!-- 蓝色 -->
+    <color name="blue">#0000FF</color>
+    <!-- 橙色 -->
+    <color name="orange">#FFA500</color>
+    <!-- 黑色 -->
+    <color name="black">#000000</color>
+    <!-- 白色 -->
+    <color name="white">#FFFFFF</color>
+    <!-- 青色 -->
+    <color name="cyan">#00FFFF</color>
+    <!-- 淡灰色 -->
+    <color name="gainsboro">#DCDCDC</color>
+    <!-- 贝壳色 -->
+    <color name="seashell">#8B8682</color>
+    <!-- 紫色 -->
+    <color name="purple">#A020F0</color>
+    <!-- 透明色 -->
+    <color name="transparent">#00FFFFFF</color>
+    <!-- 缓冲颜色 -->
+    <color name="cacheColor">#00000000</color>
+</resources>
